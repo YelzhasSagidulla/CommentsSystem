@@ -1,0 +1,4 @@
+﻿CREATE PROCEDURE Get_Statuses
+AS
+	SELECT * FROM Status
+RETURN 0

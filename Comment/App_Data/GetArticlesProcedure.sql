@@ -1,0 +1,4 @@
+﻿CREATE PROCEDURE Get_Articles
+AS
+	SELECT * FROM Article
+RETURN 0
